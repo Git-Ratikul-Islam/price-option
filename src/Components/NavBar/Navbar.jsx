@@ -1,3 +1,4 @@
+/* eslint-disable react/jsx-key */
 import { useState } from "react";
 import Link from "../Link/Link";
 import { RiMenu2Fill } from 'react-icons/ri';
